@@ -14,7 +14,7 @@ Books, tools, podcasts, and articles that Min found awesome.
 
 ## Productivity
 - [TickTick](https://ticktick.com) Todo List app. I used it to keep track of all my works both for pesonal and work.
-- [Obsidian](https://obsidian.md) Text Editor powered by Markdown. I use it manily for [journaling](https://www.youtube.com/watch?v=H65tRCc-qyQ). Planning to create my own (Zettelkasten)[https://en.wikipedia.org/wiki/Zettelkasten] notes with it.
+- [Obsidian](https://obsidian.md) Text Editor powered by Markdown. I use it manily for [journaling](https://www.youtube.com/watch?v=H65tRCc-qyQ). Planning to create my own [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) notes with it.
 - [Freedom](https://freedom.to) Block websites and apps for a period of time you setted. I use it while I'm working or whenever I need a break from the internet. 
 - [Rescue Time](https://rescuetime.com) Track your app and website usages and generate analyses. It also have blocker ability but limited only to focus (work) session. I use it to track my computer time although it has blocking feature as Freedom, It's still worthwhile to see the statistics of my usages on apps and websites.
 
