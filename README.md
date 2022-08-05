@@ -21,4 +21,4 @@ Books, tools, podcasts, and articles that Min found awesome.
 
 ## Learning
 - [O'Reilly](https://www.oreilly.com) It's where I read most of my Tech Related books and have 80% of the books I want to read. It's a bit priecy though. Tip. they have a huge discount on Cyber Monday every year.
-- [Udemy](https://www.udemy.com/) I use Udemy when I need to learn something quickly. Tip. If you are in Singapore, you can access Udemy Business for free if you are an NLB Member. You can check the instructions [here](https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=18)](https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=18)
+- [Udemy](https://www.udemy.com/) I use Udemy when I need to learn something quickly. Tip. If you are in Singapore, you can access Udemy Business for free if you are an NLB Member. You can check the instructions [here](https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=18).
