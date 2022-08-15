@@ -11,7 +11,9 @@ Books, tools, podcasts, and articles that Min found awesome.
 ## Coding
 - [Visual Studio Code](https://code.visualstudio.com) I Mainly use it for frontend development.
 [Github](https://github.com/) is Where all my public codebases are.
-- [tmux](https://github.com/tmux/tmux) Terminal multiplexer.
+- [tmux](https://github.com/tmux/tmux) Terminal multiplexer. This is where I live!
+- [Amethyst](https://github.com/ianyh/Amethyst) Tiling Window Manager for Mac. I use it when I'm working with an ultra-wide monitor.
+- [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) Running Linux Environment in Window. I was a long-time Ubuntu user. Nowadays my work outside of my day job is all done by my home PC which runs Window  (guilty as charged) with WSL2. I was impressed by WSL2 after watching [this video](https://youtu.be/Owrk9UxnMdI). Planning to ditch the WSL2 and switch to NixOS with Virtual-Box and i3 after watching [this video](https://youtu.be/LA8KF9Fs2sk?t=1355)
 
 ## Productivity
 - [TickTick](https://ticktick.com) Todo List app. I used it to keep track of all my work both for personal and work.
@@ -20,5 +22,7 @@ Books, tools, podcasts, and articles that Min found awesome.
 - [Rescue Time](https://rescuetime.com) Track your app and website usages and generate analyses. It also has blocker ability but is limited only to focus (work) sessions. I use it to track my screen time although it has the blocking feature like Freedom, It's still worthwhile to see the statistics of my screentime usage.
 
 ## Learning
-- [O'Reilly](https://www.oreilly.com) It's where I read most of my Tech Related books and have 80% of the books I want to read. It's a bit priecy though. Tip. they have a huge discount on Cyber Monday every year.
+- [O'Reilly](https://www.oreilly.com) It's where I read most of my Tech Related books and have 80% of the books I want to read. It's a bit pricey though. Tip. they have a huge discount on Cyber Monday every year.
 - [Udemy](https://www.udemy.com/) I use Udemy when I need to learn something quickly. Tip. If you are in Singapore, you can access Udemy Business for free if you are an NLB Member. You can check the instructions [here](https://eresources.nlb.gov.sg/main/Browse?browseBy=type&filter=18).
+- [libby](https://libbyapp.com/) Reading app that connects with your library. Whenever I want to read a book (non-technical), I will try to borrow it from Libby first.
+- [Kindle Cloud Reader](https://read.amazon.com/) An Ebook reader. I read all of my non-technical books with Kindle Cloud Reader if I can't borrow from Libby. 
