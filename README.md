@@ -19,7 +19,7 @@ Books, tools, podcasts, and articles that Min found awesome.
 - [Obsidian](https://obsidian.md) Text Editor powered by Markdown. I use it mainly for [journaling](https://www.youtube.com/watch?v=H65tRCc-qyQ). Planning to create my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) notes with it.
 - [Freedom](https://freedom.to) Block websites and apps for a period you set. I use it while I'm working or whenever I need a break from the internet. 
 - [Rescue Time](https://rescuetime.com) Track your app and website usages and generate analyses. It also has blocker ability but is limited only to focus (work) sessions. I use it to track my screen time although it has the blocking feature like Freedom, It's still worthwhile to see the statistics of my screentime usage.
-- [Google Podcast](https://podcasts.google.com/) I use google podcast as my podcast player mainly to stay platform agnostic. It does the work but features are very minimal. It would be great if it has favourite feature.
+- [Google Podcast](https://podcasts.google.com/) I use google podcast as my podcast player mainly to stay platform agnostic. It does the work but features are very minimal. It would be great, if it has favourite feature.
 
 ## Learning
 - [O'Reilly](https://www.oreilly.com) It's where I read most of my Tech Related books. It has 80% of the books I want to read. It's a bit pricey though. Tip. they have a huge discount on Cyber Monday every year.
